@@ -1,0 +1,574 @@
+- 08:28:29.078 INFO: --------------------------------------------------------
+- 08:28:29.078 INFO: Started application
+- 08:28:29.078 INFO: Logging to: D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log
+- 08:28:29.078 INFO: Log level = DEBUG4
+- 08:28:29.078 INFO: Starting Mongoose 3.9c web server
+- 08:28:29.078 INFO: WWW directory: D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\www
+- 08:28:29.078 INFO: Index files: index.html,index.php
+- 08:28:29.078 INFO: CGI interpreter: D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\php\php-cgi.exe
+- 08:28:29.078 INFO: CGI pattern: **.php$
+- 08:28:29.078 INFO: Hide files patterns: 
+- 08:28:29.078 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\PHPDEF~1\AppData\Local\Temp\
+- 08:28:29.078 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 08:28:29.078 INFO: Web server url: http://127.0.0.1:49501/
+- 08:28:29.093 INFO: remote_debugging_port = 61916
+- 08:28:29.093 DEBUG: Command line string for the browser process: "D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --remote-debugging-port=61916
+- 08:28:30.296 DEBUG: App::OnContextInitialized()
+- 08:28:30.296 DEBUG: Window max width/height = 1286/680
+- 08:28:30.296 DEBUG: GetBrowserWindow(): not found, hwnd = 525288
+- 08:28:30.296 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 08:28:30.312 DEBUG: BrowserWindow::CreateBrowserControl()
+- 08:28:30.312 DEBUG: StoreBrowserWindow(): hwnd = 525288
+- 08:28:30.000 DEBUG: Command line string for the gpu-process process: "D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=gpu-process --channel="5196.0.1969259316\1633771953" --no-sandbox --lang=en-US --log-file="D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,23,51 --gpu-vendor-id=0x8086 --gpu-device-id=0x0102 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=9.17.10.3223 --lang=en-US --log-file="D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" /prefetch:822062411
+- 08:28:30.359 DEBUG: ClientHandler::OnAfterCreated()
+- 08:28:30.359 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 08:28:30.374 DEBUG: OnLoadingStateChange: loading=1, url=
+- 08:28:30.000 DEBUG: Command line string for the renderer process: "D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --device-scale-factor=1 --num-raster-threads=1 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --channel="5196.1.1467562549\2031553899" /prefetch:673131151
+- 08:28:30.078 DEBUG: OnBrowserCreated()
+- 08:28:33.071 INFO: GET 200 /
+- 08:28:33.103 INFO: GET 200 /style.css
+- 08:28:33.713 DEBUG: OnContextCreated()
+- 08:28:34.274 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49501/
+- 08:29:00.000 DEBUG: Command line string for the utility process: "D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=utility --channel="5196.2.1766217859\1278031676" --lang=en-US --no-sandbox --no-sandbox --lang=en-US --log-file="D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" /prefetch:-645351001
+- 08:31:24.596 DEBUG: F5 pressed, reloading page
+- 08:31:24.596 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49501/
+- 08:31:24.986 INFO: GET 200 /
+- 08:31:25.909 DEBUG: OnContextCreated()
+- 08:31:25.314 INFO: GET 200 /style.css
+- 08:31:25.376 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49501/
+- 08:31:33.050 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49501/
+- 08:31:33.174 INFO: GET 200 /error-404.php
+- 08:31:34.832 DEBUG: OnContextCreated()
+- 08:31:34.315 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49501/error-404.php
+- 08:39:49.322 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49501/error-404.php
+- 08:39:49.400 INFO: GET 200 /index.php
+- 08:39:49.995 DEBUG: OnContextCreated()
+- 08:39:49.400 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49501/index.php
+- 08:39:59.945 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49501/index.php
+- 08:39:59.023 INFO: GET 200 /index.php
+- 08:39:59.634 DEBUG: OnContextCreated()
+- 08:39:59.039 INFO: GET 200 /style.css
+- 08:39:59.070 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49501/index.php
+- 08:40:34.890 DEBUG: OnBeforeClose() hwnd=459720
+- 08:40:34.890 DEBUG: RemoveBrowserWindow(): hwnd = 459720
+- 08:40:34.890 DEBUG: GetBrowserWindow(): not found, hwnd = 459720
+- 08:40:34.890 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 08:40:44.015 INFO: --------------------------------------------------------
+- 08:40:44.015 INFO: Started application
+- 08:40:44.015 INFO: Logging to: D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log
+- 08:40:44.015 INFO: Log level = DEBUG4
+- 08:40:44.015 INFO: Starting Mongoose 3.9c web server
+- 08:40:44.015 INFO: WWW directory: D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\www
+- 08:40:44.015 INFO: Index files: index.html,index.php
+- 08:40:44.015 INFO: CGI interpreter: D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\php\php-cgi.exe
+- 08:40:44.015 INFO: CGI pattern: **.php$
+- 08:40:44.015 INFO: Hide files patterns: 
+- 08:40:44.031 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\PHPDEF~1\AppData\Local\Temp\
+- 08:40:44.031 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 08:40:44.031 INFO: Web server url: http://127.0.0.1:49541/
+- 08:40:44.031 INFO: remote_debugging_port = 53913
+- 08:40:44.031 DEBUG: Command line string for the browser process: "D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --remote-debugging-port=53913
+- 08:40:45.093 DEBUG: App::OnContextInitialized()
+- 08:40:45.109 DEBUG: Window max width/height = 1286/680
+- 08:40:45.109 DEBUG: GetBrowserWindow(): not found, hwnd = 4785098
+- 08:40:45.109 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 08:40:45.109 DEBUG: BrowserWindow::CreateBrowserControl()
+- 08:40:45.109 DEBUG: StoreBrowserWindow(): hwnd = 4785098
+- 08:40:45.124 DEBUG: ClientHandler::OnAfterCreated()
+- 08:40:45.124 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 08:40:45.156 DEBUG: OnLoadingStateChange: loading=1, url=
+- 08:40:45.000 DEBUG: Command line string for the gpu-process process: "D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=gpu-process --channel="5284.0.571628104\1191411486" --no-sandbox --lang=en-US --log-file="D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,23,51 --gpu-vendor-id=0x8086 --gpu-device-id=0x0102 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=9.17.10.3223 --lang=en-US --log-file="D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" /prefetch:822062411
+- 08:40:45.000 DEBUG: Command line string for the renderer process: "D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --device-scale-factor=1 --num-raster-threads=1 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --channel="5284.1.838292443\806548788" /prefetch:673131151
+- 08:40:45.031 DEBUG: OnBrowserCreated()
+- 08:40:47.074 INFO: GET 200 /
+- 08:40:47.074 INFO: GET 200 /style.css
+- 08:40:47.856 DEBUG: OnContextCreated()
+- 08:40:47.106 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49541/
+- 08:41:05.342 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49541/
+- 08:41:05.186 DEBUG: OnContextCreated()
+- 08:41:05.420 INFO: GET 200 /Printexample.php
+- 08:41:05.576 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49541/Printexample.php
+[0415/084109:INFO:CONSOLE(1)] "Uncaught ReferenceError: printDiv is not defined", source:  (1)
+[0415/084112:INFO:CONSOLE(1)] "Uncaught ReferenceError: printDiv is not defined", source:  (1)
+[0415/084118:INFO:CONSOLE(1)] "Uncaught ReferenceError: printDiv is not defined", source:  (1)
+[0415/084119:INFO:CONSOLE(1)] "Uncaught ReferenceError: printDiv is not defined", source:  (1)
+- 08:43:57.926 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49541/Printexample.php
+- 08:43:57.004 INFO: GET 200 /Printexample.php
+- 08:43:57.786 DEBUG: OnContextCreated()
+- 08:43:57.020 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49541/Printexample.php
+[0415/084400:INFO:CONSOLE(1)] "Uncaught ReferenceError: printDiv is not defined", source:  (1)
+[0415/084401:INFO:CONSOLE(1)] "Uncaught ReferenceError: printDiv is not defined", source:  (1)
+[0415/084402:INFO:CONSOLE(1)] "Uncaught ReferenceError: printDiv is not defined", source:  (1)
+[0415/084402:INFO:CONSOLE(1)] "Uncaught ReferenceError: printDiv is not defined", source:  (1)
+[0415/084402:INFO:CONSOLE(1)] "Uncaught ReferenceError: printDiv is not defined", source:  (1)
+- 08:46:52.117 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49541/Printexample.php
+- 08:46:52.195 INFO: GET 200 /Printexample.php
+- 08:46:52.976 DEBUG: OnContextCreated()
+- 08:46:52.210 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49541/Printexample.php
+[0415/084653:INFO:CONSOLE(1)] "Uncaught ReferenceError: printDiv is not defined", source:  (1)
+[0415/084654:INFO:CONSOLE(1)] "Uncaught ReferenceError: printDiv is not defined", source:  (1)
+[0415/084655:INFO:CONSOLE(1)] "Uncaught ReferenceError: printDiv is not defined", source:  (1)
+[0415/084656:INFO:CONSOLE(1)] "Uncaught ReferenceError: printDiv is not defined", source:  (1)
+[0415/084656:INFO:CONSOLE(1)] "Uncaught ReferenceError: printDiv is not defined", source:  (1)
+[0415/084701:INFO:CONSOLE(1)] "Uncaught ReferenceError: printDiv is not defined", source:  (1)
+- 08:47:12.100 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49541/Printexample.php
+- 08:47:12.178 INFO: GET 200 /Printexample.php
+- 08:47:12.944 DEBUG: OnContextCreated()
+- 08:47:12.178 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49541/Printexample.php
+[0415/084720:INFO:CONSOLE(1)] "Uncaught ReferenceError: printDiv is not defined", source:  (1)
+[0415/084720:INFO:CONSOLE(1)] "Uncaught ReferenceError: printDiv is not defined", source:  (1)
+[0415/084731:INFO:CONSOLE(1)] "Uncaught ReferenceError: printDiv is not defined", source:  (1)
+[0415/084732:INFO:CONSOLE(1)] "Uncaught ReferenceError: printDiv is not defined", source:  (1)
+[0415/084732:INFO:CONSOLE(1)] "Uncaught ReferenceError: printDiv is not defined", source:  (1)
+- 08:48:54.702 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49541/Printexample.php
+- 08:48:54.765 INFO: GET 200 /Printexample.php
+- 08:48:54.531 DEBUG: OnContextCreated()
+- 08:48:54.812 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49541/Printexample.php
+- 08:49:00.318 DEBUG: WM_DESTROY
+- 08:49:00.334 DEBUG: RemoveBrowserWindow(): hwnd = 4785098
+- 08:49:00.334 INFO: Stopping Mongoose web server
+- 08:49:00.334 DEBUG: Mongoose webserver stopped immediately
+- 08:49:00.350 DEBUG: OnBeforeClose() hwnd=1115174
+- 08:49:00.350 DEBUG: RemoveBrowserWindow(): hwnd = 1115174
+- 08:49:00.350 DEBUG: GetBrowserWindow(): not found, hwnd = 1115174
+- 08:49:00.350 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 08:49:00.350 DEBUG: Calling CefQuitMessageLoop()
+- 08:49:00.303 DEBUG: OnBrowserDestroyed()
+- 08:49:00.708 INFO: Ended application
+- 08:49:00.708 INFO: --------------------------------------------------------
+- 16:04:47.218 INFO: --------------------------------------------------------
+- 16:04:47.234 INFO: Started application
+- 16:04:47.234 INFO: Logging to: D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log
+- 16:04:47.234 INFO: Log level = DEBUG4
+- 16:04:47.234 INFO: Starting Mongoose 3.9c web server
+- 16:04:47.234 INFO: WWW directory: D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\www
+- 16:04:47.234 INFO: Index files: index.html,index.php
+- 16:04:47.234 INFO: CGI interpreter: D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\php\php-cgi.exe
+- 16:04:47.234 INFO: CGI pattern: **.php$
+- 16:04:47.234 INFO: Hide files patterns: 
+- 16:04:47.234 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\PHPDEF~1\AppData\Local\Temp\
+- 16:04:47.234 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 16:04:47.249 INFO: Web server url: http://127.0.0.1:49944/
+- 16:04:47.249 INFO: remote_debugging_port = 55736
+- 16:04:48.390 DEBUG: Command line string for the browser process: "D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --remote-debugging-port=55736
+- 16:04:50.000 DEBUG: Command line string for the gpu-process process: "D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=gpu-process --channel="4980.0.1607997746\1839810899" --no-sandbox --lang=en-US --log-file="D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,23,51 --gpu-vendor-id=0x8086 --gpu-device-id=0x0102 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=9.17.10.3223 --lang=en-US --log-file="D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" /prefetch:822062411
+- 16:04:51.243 DEBUG: App::OnContextInitialized()
+- 16:04:51.259 DEBUG: Window max width/height = 1286/680
+- 16:04:51.259 DEBUG: GetBrowserWindow(): not found, hwnd = 460964
+- 16:04:51.259 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 16:04:51.259 DEBUG: BrowserWindow::CreateBrowserControl()
+- 16:04:51.274 DEBUG: StoreBrowserWindow(): hwnd = 460964
+- 16:04:52.758 DEBUG: ClientHandler::OnAfterCreated()
+- 16:04:52.758 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 16:04:52.000 DEBUG: Command line string for the renderer process: "D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="D:\software\PHP Desk top application maker\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --device-scale-factor=1 --num-raster-threads=1 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --channel="4980.1.816940061\1857444230" /prefetch:673131151
+- 16:04:52.070 DEBUG: OnLoadingStateChange: loading=1, url=
+- 16:04:54.059 DEBUG: OnBrowserCreated()
+- 16:04:58.842 INFO: GET 200 /
+- 16:04:58.920 INFO: GET 200 /style.css
+- 16:04:58.209 DEBUG: OnContextCreated()
+- 16:04:59.466 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49944/
+- 16:05:07.765 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49944/
+- 16:05:07.030 INFO: GET 200 /phpinfo (2).php
+- 16:05:07.070 DEBUG: OnContextCreated()
+- 16:05:07.093 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49944/phpinfo%20(2).php
+- 16:05:20.916 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49944/phpinfo%20(2).php
+- 16:05:20.994 INFO: GET 200 /phpinfo (2).php
+- 16:05:20.987 DEBUG: OnContextCreated()
+- 16:05:20.010 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49944/phpinfo%20(2).php
+- 16:05:52.506 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49944/phpinfo%20(2).php
+- 16:05:52.499 DEBUG: OnContextCreated()
+- 16:05:52.537 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49944/
+- 16:05:55.548 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49944/
+- 16:05:55.946 DEBUG: OnContextCreated()
+- 16:05:55.969 INFO: GET 200 /phpinfo.php
+- 16:05:55.250 INFO: GET 200 /phpinfo.php?=PHPE9568F34-D428-11d2-A769-00AA001ACF42
+- 16:05:55.250 INFO: GET 200 /phpinfo.php?=PHPE9568F35-D428-11d2-A769-00AA001ACF42
+- 16:05:56.344 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49944/phpinfo.php
+- 16:05:58.325 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49944/phpinfo.php
+- 16:05:58.318 DEBUG: OnContextCreated()
+- 16:05:58.356 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49944/
+- 16:06:37.637 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49944/
+- 16:06:37.692 DEBUG: OnContextCreated()
+- 16:06:37.715 INFO: GET 200 /phpinfo (2).php
+- 16:06:37.871 INFO: GET 200 /phpinfo (2).php?=PHPE9568F34-D428-11d2-A769-00AA001ACF42
+- 16:06:37.871 INFO: GET 200 /phpinfo (2).php?=PHPE9568F35-D428-11d2-A769-00AA001ACF42
+- 16:06:37.887 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49944/phpinfo%20(2).php
+- 16:07:30.130 DEBUG: WM_DESTROY
+- 16:07:30.130 DEBUG: RemoveBrowserWindow(): hwnd = 460964
+- 16:07:30.130 INFO: Stopping Mongoose web server
+- 16:07:30.130 DEBUG: Mongoose webserver stopped immediately
+- 16:07:30.130 DEBUG: OnBeforeClose() hwnd=133342
+- 16:07:30.146 DEBUG: RemoveBrowserWindow(): hwnd = 133342
+- 16:07:30.146 DEBUG: GetBrowserWindow(): not found, hwnd = 133342
+- 16:07:30.146 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 16:07:30.146 DEBUG: Calling CefQuitMessageLoop()
+- 16:07:31.348 INFO: Ended application
+- 16:07:31.348 INFO: --------------------------------------------------------
+- 10:24:40.047 INFO: --------------------------------------------------------
+- 10:24:40.047 INFO: Started application
+- 10:24:40.047 INFO: Logging to: C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log
+- 10:24:40.047 INFO: Log level = DEBUG4
+- 10:24:40.047 INFO: Starting Mongoose 3.9c web server
+- 10:24:40.047 INFO: WWW directory: C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\www
+- 10:24:40.047 INFO: Index files: index.html,index.php
+- 10:24:40.047 INFO: CGI interpreter: C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\php\php-cgi.exe
+- 10:24:40.047 INFO: CGI pattern: **.php$
+- 10:24:40.047 INFO: Hide files patterns: 
+- 10:24:40.047 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\PHPDEF~1\AppData\Local\Temp\
+- 10:24:40.047 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 10:24:40.078 INFO: Web server url: http://127.0.0.1:49352/
+- 10:24:40.078 INFO: remote_debugging_port = 62091
+- 10:24:40.078 DEBUG: Command line string for the browser process: "C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --remote-debugging-port=62091
+- 10:24:40.000 DEBUG: Command line string for the gpu-process process: "C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=gpu-process --channel="5636.0.2762336\291928731" --no-sandbox --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,23,51 --gpu-vendor-id=0x8086 --gpu-device-id=0x0102 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=9.17.10.3223 --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" /prefetch:822062411
+- 10:24:40.359 DEBUG: App::OnContextInitialized()
+- 10:24:40.359 DEBUG: Window max width/height = 1286/680
+- 10:24:40.374 DEBUG: GetBrowserWindow(): not found, hwnd = 132348
+- 10:24:40.374 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 10:24:40.374 DEBUG: BrowserWindow::CreateBrowserControl()
+- 10:24:40.374 DEBUG: StoreBrowserWindow(): hwnd = 132348
+- 10:24:40.421 DEBUG: ClientHandler::OnAfterCreated()
+- 10:24:40.421 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 10:24:40.421 DEBUG: OnLoadingStateChange: loading=1, url=
+- 10:24:40.000 DEBUG: Command line string for the renderer process: "C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --device-scale-factor=1 --num-raster-threads=1 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --channel="5636.1.802211000\569759940" /prefetch:673131151
+- 10:24:40.063 DEBUG: OnBrowserCreated()
+- 10:24:42.324 INFO: GET 200 /
+- 10:24:42.340 INFO: GET 200 /style.css
+- 10:24:42.904 DEBUG: OnContextCreated()
+- 10:24:42.465 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49352/
+- 10:24:45.522 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49352/
+- 10:24:45.569 INFO: GET 200 /index.php
+- 10:24:45.117 DEBUG: OnContextCreated()
+- 10:24:45.585 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49352/index.php
+- 10:24:47.114 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49352/index.php
+- 10:24:47.192 INFO: GET 200 /forms.php
+- 10:24:47.740 DEBUG: OnContextCreated()
+- 10:24:47.301 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49352/forms.php
+- 10:24:51.887 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49352/forms.php
+- 10:24:52.965 INFO: GET 200 /index.php
+- 10:24:52.513 DEBUG: OnContextCreated()
+- 10:24:52.981 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49352/index.php
+- 10:24:55.553 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49352/index.php
+- 10:24:55.616 INFO: GET 200 /phpinfo.php
+- 10:24:55.179 DEBUG: OnContextCreated()
+- 10:24:55.834 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49352/phpinfo.php
+- 10:25:01.169 DEBUG: WM_DESTROY
+- 10:25:01.169 DEBUG: RemoveBrowserWindow(): hwnd = 132348
+- 10:25:01.169 INFO: Stopping Mongoose web server
+- 10:25:01.169 DEBUG: Mongoose webserver stopped immediately
+- 10:25:01.169 DEBUG: OnBeforeClose() hwnd=132340
+- 10:25:01.169 DEBUG: RemoveBrowserWindow(): hwnd = 132340
+- 10:25:01.169 DEBUG: GetBrowserWindow(): not found, hwnd = 132340
+- 10:25:01.169 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 10:25:01.169 DEBUG: Calling CefQuitMessageLoop()
+- 10:25:01.216 INFO: Ended application
+- 10:25:01.216 INFO: --------------------------------------------------------
+- 10:25:18.078 INFO: --------------------------------------------------------
+- 10:25:18.078 INFO: Started application
+- 10:25:18.078 INFO: Logging to: C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log
+- 10:25:18.078 INFO: Log level = DEBUG4
+- 10:25:18.078 INFO: Starting Mongoose 3.9c web server
+- 10:25:18.078 INFO: WWW directory: C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\www
+- 10:25:18.078 INFO: Index files: index.html,index.php
+- 10:25:18.078 INFO: CGI interpreter: C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\php\php-cgi.exe
+- 10:25:18.078 INFO: CGI pattern: **.php$
+- 10:25:18.078 INFO: Hide files patterns: 
+- 10:25:18.078 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\PHPDEF~1\AppData\Local\Temp\
+- 10:25:18.109 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 10:25:18.124 INFO: Web server url: http://127.0.0.1:49367/
+- 10:25:18.124 INFO: remote_debugging_port = 54341
+- 10:25:18.124 DEBUG: Command line string for the browser process: "C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --remote-debugging-port=54341
+- 10:25:18.187 DEBUG: App::OnContextInitialized()
+- 10:25:18.187 DEBUG: Window max width/height = 1286/680
+- 10:25:18.202 DEBUG: GetBrowserWindow(): not found, hwnd = 263420
+- 10:25:18.202 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 10:25:18.202 DEBUG: BrowserWindow::CreateBrowserControl()
+- 10:25:18.202 DEBUG: StoreBrowserWindow(): hwnd = 263420
+- 10:25:18.016 DEBUG: Command line string for the gpu-process process: "C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=gpu-process --channel="692.0.1678987514\955812142" --no-sandbox --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,23,51 --gpu-vendor-id=0x8086 --gpu-device-id=0x0102 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=9.17.10.3223 --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" /prefetch:822062411
+- 10:25:18.280 DEBUG: ClientHandler::OnAfterCreated()
+- 10:25:18.280 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 10:25:18.280 DEBUG: OnLoadingStateChange: loading=1, url=
+- 10:25:18.000 DEBUG: Command line string for the renderer process: "C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --device-scale-factor=1 --num-raster-threads=1 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --channel="692.1.1132637159\1323492516" /prefetch:673131151
+- 10:25:18.031 DEBUG: OnBrowserCreated()
+- 10:25:21.369 INFO: GET 200 /
+- 10:25:21.416 INFO: GET 200 /style.css
+- 10:25:21.104 DEBUG: OnContextCreated()
+- 10:25:21.494 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49367/
+- 10:25:23.506 DEBUG: WM_DESTROY
+- 10:25:23.506 DEBUG: RemoveBrowserWindow(): hwnd = 263420
+- 10:25:23.506 INFO: Stopping Mongoose web server
+- 10:25:23.506 DEBUG: Mongoose webserver stopped immediately
+- 10:25:23.506 DEBUG: OnBeforeClose() hwnd=525330
+- 10:25:23.506 DEBUG: RemoveBrowserWindow(): hwnd = 525330
+- 10:25:23.506 DEBUG: GetBrowserWindow(): not found, hwnd = 525330
+- 10:25:23.506 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 10:25:23.506 DEBUG: Calling CefQuitMessageLoop()
+- 10:25:23.694 INFO: Ended application
+- 10:25:23.694 INFO: --------------------------------------------------------
+- 10:35:37.031 INFO: --------------------------------------------------------
+- 10:35:37.031 INFO: Started application
+- 10:35:37.031 INFO: Logging to: C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log
+- 10:35:37.031 INFO: Log level = DEBUG4
+- 10:35:37.031 INFO: Starting Mongoose 3.9c web server
+- 10:35:37.031 INFO: WWW directory: C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\www
+- 10:35:37.031 INFO: Index files: index.html,index.php
+- 10:35:37.031 INFO: CGI interpreter: C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\php\php-cgi.exe
+- 10:35:37.031 INFO: CGI pattern: **.php$
+- 10:35:37.031 INFO: Hide files patterns: 
+- 10:35:37.031 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\PHPDEF~1\AppData\Local\Temp\
+- 10:35:37.047 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 10:35:37.047 INFO: Web server url: http://127.0.0.1:49406/
+- 10:35:37.047 INFO: remote_debugging_port = 65004
+- 10:35:37.047 DEBUG: Command line string for the browser process: "C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --remote-debugging-port=65004
+- 10:35:37.109 DEBUG: App::OnContextInitialized()
+- 10:35:37.109 DEBUG: Window max width/height = 1286/680
+- 10:35:37.109 DEBUG: GetBrowserWindow(): not found, hwnd = 591222
+- 10:35:37.109 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 10:35:37.109 DEBUG: BrowserWindow::CreateBrowserControl()
+- 10:35:37.109 DEBUG: StoreBrowserWindow(): hwnd = 591222
+- 10:35:37.203 DEBUG: ClientHandler::OnAfterCreated()
+- 10:35:37.203 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 10:35:38.219 DEBUG: OnLoadingStateChange: loading=1, url=
+- 10:35:38.000 DEBUG: Command line string for the gpu-process process: "C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=gpu-process --channel="4472.0.1537750086\963863453" --no-sandbox --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,23,51 --gpu-vendor-id=0x8086 --gpu-device-id=0x0102 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=9.17.10.3223 --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" /prefetch:822062411
+- 10:35:38.000 DEBUG: Command line string for the renderer process: "C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --device-scale-factor=1 --num-raster-threads=1 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --channel="4472.1.310872609\470958540" /prefetch:673131151
+- 10:35:38.047 DEBUG: OnBrowserCreated()
+- 10:35:40.215 INFO: GET 200 /style.css
+- 10:35:40.215 INFO: GET 200 /
+- 10:35:40.966 DEBUG: OnContextCreated()
+- 10:35:40.247 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49406/
+- 10:35:44.880 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49406/
+- 10:35:44.958 INFO: GET 200 /forms.php
+- 10:35:44.693 DEBUG: OnContextCreated()
+- 10:35:44.989 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49406/forms.php
+- 10:35:46.471 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49406/forms.php
+- 10:35:46.533 INFO: GET 200 /index.php
+- 10:35:46.284 DEBUG: OnContextCreated()
+- 10:35:46.549 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49406/index.php
+- 10:35:48.139 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49406/index.php
+- 10:35:48.201 INFO: GET 200 /iframe.php
+- 10:35:48.936 DEBUG: OnContextCreated()
+- 10:35:49.310 INFO: GET 200 /index.php
+- 10:35:49.045 DEBUG: OnContextCreated()
+- 10:35:49.310 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49406/iframe.php
+- 10:35:51.479 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49406/iframe.php
+- 10:35:51.541 INFO: GET 200 /index.php
+- 10:35:51.292 DEBUG: OnContextCreated()
+- 10:35:51.572 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49406/index.php
+- 10:35:55.316 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49406/index.php
+- 10:35:55.379 INFO: GET 200 /popup.php
+- 10:35:55.114 DEBUG: OnContextCreated()
+- 10:35:55.379 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49406/popup.php
+- 10:35:57.656 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49406/popup.php
+- 10:35:57.719 INFO: GET 200 /index.php
+- 10:35:57.454 DEBUG: OnContextCreated()
+- 10:35:57.719 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49406/index.php
+- 10:36:07.000 DEBUG: Command line string for the utility process: "C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=utility --channel="4472.2.2019949626\1041651269" --lang=en-US --no-sandbox --no-sandbox --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" /prefetch:-645351001
+- 10:36:08.358 DEBUG: WM_DESTROY
+- 10:36:08.358 DEBUG: RemoveBrowserWindow(): hwnd = 591222
+- 10:36:08.358 INFO: Stopping Mongoose web server
+- 10:36:08.358 DEBUG: Mongoose webserver stopped immediately
+- 10:36:08.358 DEBUG: OnBeforeClose() hwnd=460148
+- 10:36:08.374 DEBUG: RemoveBrowserWindow(): hwnd = 460148
+- 10:36:08.374 DEBUG: GetBrowserWindow(): not found, hwnd = 460148
+- 10:36:08.374 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 10:36:08.374 DEBUG: Calling CefQuitMessageLoop()
+- 10:36:08.405 INFO: Ended application
+- 10:36:08.405 INFO: --------------------------------------------------------
+- 10:37:34.046 INFO: --------------------------------------------------------
+- 10:37:34.046 INFO: Started application
+- 10:37:34.046 INFO: Logging to: C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log
+- 10:37:34.046 INFO: Log level = DEBUG4
+- 10:37:34.046 INFO: Starting Mongoose 3.9c web server
+- 10:37:34.046 INFO: WWW directory: C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\www
+- 10:37:34.046 INFO: Index files: index.html,index.php
+- 10:37:34.046 INFO: CGI interpreter: C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\php\php-cgi.exe
+- 10:37:34.046 INFO: CGI pattern: **.php$
+- 10:37:34.046 INFO: Hide files patterns: 
+- 10:37:34.046 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\PHPDEF~1\AppData\Local\Temp\
+- 10:37:34.046 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 10:37:34.062 INFO: Web server url: http://127.0.0.1:49431/
+- 10:37:34.062 INFO: remote_debugging_port = 54341
+- 10:37:34.062 DEBUG: Command line string for the browser process: "C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --remote-debugging-port=54341
+- 10:37:34.109 DEBUG: App::OnContextInitialized()
+- 10:37:34.124 DEBUG: Window max width/height = 1286/680
+- 10:37:34.124 DEBUG: GetBrowserWindow(): not found, hwnd = 394558
+- 10:37:34.124 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 10:37:34.124 DEBUG: BrowserWindow::CreateBrowserControl()
+- 10:37:34.124 DEBUG: StoreBrowserWindow(): hwnd = 394558
+- 10:37:34.171 DEBUG: ClientHandler::OnAfterCreated()
+- 10:37:34.171 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 10:37:34.187 DEBUG: OnLoadingStateChange: loading=1, url=
+- 10:37:34.000 DEBUG: Command line string for the gpu-process process: "C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=gpu-process --channel="4492.0.88201919\1492105407" --no-sandbox --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,23,51 --gpu-vendor-id=0x8086 --gpu-device-id=0x0102 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=9.17.10.3223 --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" /prefetch:822062411
+- 10:37:34.000 DEBUG: Command line string for the renderer process: "C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --device-scale-factor=1 --num-raster-threads=1 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --channel="4492.1.1122692779\1677271520" /prefetch:673131151
+- 10:37:34.031 DEBUG: OnBrowserCreated()
+- 10:37:35.762 INFO: GET 200 /
+- 10:37:35.778 INFO: GET 200 /style.css
+- 10:37:35.560 DEBUG: OnContextCreated()
+- 10:37:35.794 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49431/
+- 10:37:48.946 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49431/
+- 10:37:48.040 INFO: GET 200 /upload.php
+- 10:37:48.822 DEBUG: OnContextCreated()
+- 10:37:48.086 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49431/upload.php
+- 10:37:52.174 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49431/upload.php
+- 10:37:52.236 INFO: POST 200 /upload.php
+- 10:37:52.034 DEBUG: OnContextCreated()
+- 10:37:52.267 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49431/upload.php
+- 10:37:55.044 DEBUG: WM_DESTROY
+- 10:37:55.060 DEBUG: RemoveBrowserWindow(): hwnd = 394558
+- 10:37:55.060 INFO: Stopping Mongoose web server
+- 10:37:55.060 DEBUG: Mongoose webserver stopped immediately
+- 10:37:55.060 DEBUG: OnBeforeClose() hwnd=525690
+- 10:37:55.060 DEBUG: RemoveBrowserWindow(): hwnd = 525690
+- 10:37:55.060 DEBUG: GetBrowserWindow(): not found, hwnd = 525690
+- 10:37:55.060 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 10:37:55.060 DEBUG: Calling CefQuitMessageLoop()
+- 10:37:55.857 DEBUG: OnBrowserDestroyed()
+- 10:37:55.106 INFO: Ended application
+- 10:37:55.106 INFO: --------------------------------------------------------
+- 10:47:15.047 INFO: --------------------------------------------------------
+- 10:47:15.047 INFO: Started application
+- 10:47:15.047 INFO: Logging to: C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log
+- 10:47:15.047 INFO: Log level = DEBUG4
+- 10:47:15.047 INFO: Starting Mongoose 3.9c web server
+- 10:47:15.047 INFO: WWW directory: C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\www
+- 10:47:15.047 INFO: Index files: index.html,index.php
+- 10:47:15.047 INFO: CGI interpreter: C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\php\php-cgi.exe
+- 10:47:15.047 INFO: CGI pattern: **.php$
+- 10:47:15.047 INFO: Hide files patterns: 
+- 10:47:15.047 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\PHPDEF~1\AppData\Local\Temp\
+- 10:47:15.062 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=6.5
+- 10:47:15.078 INFO: Web server url: http://127.0.0.1:49458/
+- 10:47:15.078 INFO: remote_debugging_port = 51899
+- 10:47:15.078 DEBUG: Command line string for the browser process: "C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop.exe" --no-sandbox --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --remote-debugging-port=51899
+- 10:47:15.140 DEBUG: App::OnContextInitialized()
+- 10:47:15.140 DEBUG: Window max width/height = 1286/680
+- 10:47:15.140 DEBUG: GetBrowserWindow(): not found, hwnd = 263744
+- 10:47:15.140 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 10:47:15.140 DEBUG: BrowserWindow::CreateBrowserControl()
+- 10:47:15.140 DEBUG: StoreBrowserWindow(): hwnd = 263744
+- 10:47:15.171 DEBUG: ClientHandler::OnAfterCreated()
+- 10:47:15.171 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 10:47:15.000 DEBUG: Command line string for the gpu-process process: "C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop.exe" --type=gpu-process --channel="3472.0.38068694\1481673426" --no-sandbox --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,23,51 --gpu-vendor-id=0x8086 --gpu-device-id=0x0102 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=9.17.10.3223 --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" /prefetch:822062411
+- 10:47:15.187 DEBUG: OnLoadingStateChange: loading=1, url=
+- 10:47:15.015 DEBUG: Command line string for the renderer process: "C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --device-scale-factor=1 --num-raster-threads=1 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --channel="3472.1.1497452072\1179737689" /prefetch:673131151
+- 10:47:15.062 DEBUG: OnBrowserCreated()
+- 10:47:16.747 INFO: GET 200 /
+- 10:47:16.747 INFO: GET 200 /style.css
+- 10:47:16.529 DEBUG: OnContextCreated()
+- 10:47:16.778 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49458/
+- 10:47:18.775 DEBUG: WM_DESTROY
+- 10:47:18.775 DEBUG: RemoveBrowserWindow(): hwnd = 263744
+- 10:47:18.775 INFO: Stopping Mongoose web server
+- 10:47:18.775 DEBUG: Mongoose webserver stopped immediately
+- 10:47:18.775 DEBUG: OnBeforeClose() hwnd=722620
+- 10:47:18.775 DEBUG: RemoveBrowserWindow(): hwnd = 722620
+- 10:47:18.775 DEBUG: GetBrowserWindow(): not found, hwnd = 722620
+- 10:47:18.775 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 10:47:18.775 DEBUG: Calling CefQuitMessageLoop()
+- 10:47:19.557 DEBUG: OnBrowserDestroyed()
+- 10:47:19.806 INFO: Ended application
+- 10:47:19.806 INFO: --------------------------------------------------------
+- 10:49:46.078 INFO: --------------------------------------------------------
+- 10:49:46.078 INFO: Started application
+- 10:49:46.078 INFO: Logging to: C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log
+- 10:49:46.078 INFO: Log level = DEBUG4
+- 10:49:46.078 INFO: Starting Mongoose 3.9c web server
+- 10:49:46.078 INFO: WWW directory: C:/Users/phpdefend/Desktop/www
+- 10:49:46.078 INFO: Index files: index.html,index.php
+- 10:49:46.078 INFO: CGI interpreter: C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\php\php-cgi.exe
+- 10:49:46.078 INFO: CGI pattern: **.php$
+- 10:49:46.078 INFO: Hide files patterns: 
+- 10:49:46.078 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\PHPDEF~1\AppData\Local\Temp\
+- 10:49:46.078 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=6.5
+- 10:49:46.078 INFO: Web server url: http://127.0.0.1:49480/
+- 10:49:46.078 INFO: remote_debugging_port = 53074
+- 10:49:46.078 DEBUG: Command line string for the browser process: phpdesktop.exe --no-sandbox --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --remote-debugging-port=53074
+- 10:49:46.140 DEBUG: App::OnContextInitialized()
+- 10:49:46.140 DEBUG: Window max width/height = 1286/680
+- 10:49:46.140 DEBUG: GetBrowserWindow(): not found, hwnd = 722562
+- 10:49:46.140 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 10:49:46.156 DEBUG: BrowserWindow::CreateBrowserControl()
+- 10:49:46.156 DEBUG: StoreBrowserWindow(): hwnd = 722562
+- 10:49:46.000 DEBUG: Command line string for the gpu-process process: "C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop.exe" --type=gpu-process --channel="5920.0.523369754\2035115992" --no-sandbox --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,23,51 --gpu-vendor-id=0x8086 --gpu-device-id=0x0102 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=9.17.10.3223 --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" /prefetch:822062411
+- 10:49:46.202 DEBUG: ClientHandler::OnAfterCreated()
+- 10:49:46.202 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 10:49:46.218 DEBUG: OnLoadingStateChange: loading=1, url=
+- 10:49:46.000 DEBUG: Command line string for the renderer process: "C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --device-scale-factor=1 --num-raster-threads=1 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --channel="5920.1.1622306078\1297424751" /prefetch:673131151
+- 10:49:46.047 DEBUG: OnBrowserCreated()
+- 10:49:48.386 INFO: GET 200 /
+- 10:49:48.386 INFO: GET 200 /style.css
+- 10:49:48.137 DEBUG: OnContextCreated()
+- 10:49:48.418 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49480/
+- 10:50:32.000 INFO: --------------------------------------------------------
+- 10:50:32.000 INFO: Started application
+- 10:50:32.000 INFO: Logging to: C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log
+- 10:50:32.000 INFO: Log level = DEBUG4
+- 10:50:32.000 INFO: Starting Mongoose 3.9c web server
+- 10:50:32.016 INFO: WWW directory: C:/Users/phpdefend/Desktop/www
+- 10:50:32.016 INFO: Index files: index.html,index.php
+- 10:50:32.016 INFO: CGI interpreter: C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\php\php-cgi.exe
+- 10:50:32.016 INFO: CGI pattern: **.php$
+- 10:50:32.016 INFO: Hide files patterns: 
+- 10:50:32.016 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\PHPDEF~1\AppData\Local\Temp\
+- 10:50:32.016 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=6.5
+- 10:50:32.031 INFO: Web server url: http://127.0.0.1:8889/
+- 10:50:32.031 INFO: remote_debugging_port = 51340
+- 10:50:32.031 DEBUG: Command line string for the browser process: phpdesktop.exe --no-sandbox --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --remote-debugging-port=51340
+- 10:50:32.078 DEBUG: App::OnContextInitialized()
+- 10:50:32.078 DEBUG: Window max width/height = 1286/680
+- 10:50:32.078 DEBUG: Window max size exceeded, new width/height = 1000/680
+- 10:50:32.078 DEBUG: GetBrowserWindow(): not found, hwnd = 788180
+- 10:50:32.078 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 10:50:32.078 DEBUG: BrowserWindow::CreateBrowserControl()
+- 10:50:32.078 DEBUG: StoreBrowserWindow(): hwnd = 788180
+- 10:50:32.125 DEBUG: ClientHandler::OnAfterCreated()
+- 10:50:32.125 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 10:50:32.141 DEBUG: OnLoadingStateChange: loading=1, url=
+- 10:50:32.000 DEBUG: Command line string for the gpu-process process: "C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop.exe" --type=gpu-process --channel="4160.0.1180095972\783691105" --no-sandbox --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,23,51 --gpu-vendor-id=0x8086 --gpu-device-id=0x0102 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=9.17.10.3223 --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" /prefetch:822062411
+- 10:50:32.015 DEBUG: Command line string for the renderer process: "C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --device-scale-factor=1 --num-raster-threads=1 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --channel="4160.1.455163824\1598337059" /prefetch:673131151
+- 10:50:32.062 DEBUG: OnBrowserCreated()
+- 10:50:34.091 INFO: GET 200 /
+- 10:50:34.091 INFO: GET 200 /style.css
+- 10:50:34.934 DEBUG: OnContextCreated()
+- 10:50:34.122 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:8889/
+- 10:50:46.352 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:8889/
+- 10:50:47.446 INFO: GET 200 /iframe.php
+- 10:50:47.274 DEBUG: OnContextCreated()
+- 10:50:47.367 DEBUG: OnContextCreated()
+- 10:50:47.539 INFO: GET 200 /index.php
+- 10:50:47.539 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:8889/iframe.php
+- 10:50:49.755 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:8889/iframe.php
+- 10:50:49.848 INFO: GET 200 /index.php
+- 10:50:49.676 DEBUG: OnContextCreated()
+- 10:50:49.848 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:8889/index.php
+- 10:53:42.000 INFO: --------------------------------------------------------
+- 10:53:42.000 INFO: Started application
+- 10:53:42.000 INFO: Logging to: C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log
+- 10:53:42.000 INFO: Log level = DEBUG4
+- 10:53:42.016 INFO: Starting Mongoose 3.9c web server
+- 10:53:42.016 INFO: WWW directory: C:/Users/phpdefend/Desktop/www
+- 10:53:42.016 INFO: Index files: index.html,index.php
+- 10:53:42.016 INFO: CGI interpreter: C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\php\php-cgi.exe
+- 10:53:42.016 INFO: CGI pattern: **.php$
+- 10:53:42.016 INFO: Hide files patterns: 
+- 10:53:42.016 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\PHPDEF~1\AppData\Local\Temp\
+- 10:53:42.016 INFO: CGI environment variables set: TMP=C:\Windows\Temp,TEMP=C:\Windows\Temp,TMPDIR=C:\Windows\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=6.5
+- 10:53:42.031 INFO: Web server url: http://127.0.0.1:8889/
+- 10:53:42.031 INFO: remote_debugging_port = 52486
+- 10:53:42.031 DEBUG: Command line string for the browser process: phpdesktop.exe --no-sandbox --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --remote-debugging-port=52486
+- 10:53:42.078 DEBUG: App::OnContextInitialized()
+- 10:53:42.078 DEBUG: Window max width/height = 1286/680
+- 10:53:42.078 DEBUG: Window max size exceeded, new width/height = 1000/680
+- 10:53:42.078 DEBUG: GetBrowserWindow(): not found, hwnd = 657072
+- 10:53:42.078 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 10:53:42.078 DEBUG: BrowserWindow::CreateBrowserControl()
+- 10:53:42.078 DEBUG: StoreBrowserWindow(): hwnd = 657072
+- 10:53:42.000 DEBUG: Command line string for the gpu-process process: "C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop.exe" --type=gpu-process --channel="1664.0.1265371548\529698754" --no-sandbox --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,23,51 --gpu-vendor-id=0x8086 --gpu-device-id=0x0102 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=9.17.10.3223 --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" /prefetch:822062411
+- 10:53:42.125 DEBUG: ClientHandler::OnAfterCreated()
+- 10:53:42.125 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 10:53:42.140 DEBUG: OnLoadingStateChange: loading=1, url=
+- 10:53:42.000 DEBUG: Command line string for the renderer process: "C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --device-scale-factor=1 --num-raster-threads=1 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --channel="1664.1.1470637131\212298375" /prefetch:673131151
+- 10:53:42.062 DEBUG: OnBrowserCreated()
+- 10:53:44.732 INFO: GET 200 /
+- 10:53:44.591 DEBUG: OnContextCreated()
+- 10:53:44.763 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:8889/
+- 10:54:12.000 DEBUG: Command line string for the utility process: "C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop.exe" --type=utility --channel="1664.2.364192851\60149099" --lang=en-US --no-sandbox --no-sandbox --lang=en-US --log-file="C:\Users\phpdefend\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" /prefetch:-645351001
